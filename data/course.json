@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "759cb522-41ac-4d1b-1618-bc8c885f76dc",
+  "instructors": {
+    "content": [
+      "af45e1f3-e2f1-ee26-4a9c-3751c0f40df1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd76ddf4-3532-c465-aa6f-061ceb99e2ba",
+    "website": "6-661-receivers-antennas-and-signals-spring-2003"
+  },
+  "course_title": "Receivers, Antennas, and Signals",
+  "hide_download": true,
+  "course_description": "This course explores the detection and measurement of radio and optical signals encountered in communications, astronomy, remote sensing, instrumentation, and radar. Topics covered include: statistical analysis of signal processing systems, including radiometers, spectrometers, interferometers, and digital correlation systems; matched filters and ambiguity functions; communications channel performance; measurement of random electromagnetic fields, angular filtering properties of antennas, interferometers, and aperture synthesis systems; and\u00a0radiative transfer and parameter estimation.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.661",
+  "course_image_thumbnail": {
+    "content": "4f3714a0-7cd3-fc02-96ec-74736f9f2ff4",
+    "website": "6-661-receivers-antennas-and-signals-spring-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "b84b2a74-b6b5-45c3-9bb5-a8b16348be67",
+  "site_short_id": "6.661-spring-2003",
+  "site_url_path": "courses/6-661-receivers-antennas-and-signals-spring-2003",
+  "title": "Course Metadata"
+}
